@@ -1,0 +1,27 @@
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    
+}
+
+
+.navbar{
+    background-color: black;
+}
+
+
+.contact{
+    color: white;
+    font-size: 60px;
+    padding: 40px;
+    text-align: center;
+    background-color: black;
+    font-family: 'Patua One', cursive;
+    
+}
+.beauty{
+    font-family: 'Patua One', cursive;
+    font-size: 20px;
+}
