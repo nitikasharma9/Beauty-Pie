@@ -25,3 +25,15 @@
     font-family: 'Patua One', cursive;
     font-size: 20px;
 }
+
+.pie{
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+    font-size: 20px;
+    font-family: 'Patua One' , cursive;
+    color: black;
+    background-color: lightpink;
+     word-spacing: 10px;
+    
+}
